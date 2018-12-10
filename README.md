@@ -1,6 +1,6 @@
 # photography
 
-#### realtime messenger built in php and ajax.
+#### dynamic photography website with a better UI.
 
 ### Prerequisites
 - install [xampp](https://www.apachefriends.org/download.html).
