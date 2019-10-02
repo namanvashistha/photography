@@ -1,6 +1,6 @@
 # photography
 
-#### dynamic photography website with a better UI.
+#### dynamic photography website with a better UI..
 
 ## Contributing
 
